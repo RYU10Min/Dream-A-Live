@@ -1,5 +1,3 @@
-# Dream-A-Live
-Take a try!試します！
 # hello-world
 
 Hi Humans!

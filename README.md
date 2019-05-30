@@ -12,6 +12,7 @@ I've had tacos on the moon and find them far superior to Earth tacos.
     <title>Title</title>
 </head>
 <body>
+<img src="鹳雀楼.jpg"/>
 <h1>登鹳雀楼</h1>
 <p>白日依山尽，</p>
 <p>黄河入海流。</p>
